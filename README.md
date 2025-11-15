@@ -12,7 +12,7 @@ Tengo experiencia en administración operativa, tutorías académicas, enseñanz
 
 ### 💻 Lenguajes de programación
 - Java  
-- Python  
+- C++  
 - SQL  
 - JavaScript  
 - HTML / CSS  
@@ -25,9 +25,9 @@ Tengo experiencia en administración operativa, tutorías académicas, enseñanz
 ### ⚙️ Frameworks y herramientas
 - Power BI  
 - Git & GitHub  
-- Linux (uso básico)  
+- Linux   
 - Análisis de datos  
-- Redes (Huawei)  
+- Redes   
 - Ciberseguridad básica  
 
 ---
@@ -37,10 +37,15 @@ Tengo experiencia en administración operativa, tutorías académicas, enseñanz
 ### 🎓 Universidad Centroamericana José Simeón Cañas (UCA)
 **Ingeniería Informática — 4.º año (2021 – Actualidad)**  
 Enfoque en:
+Programacion frontend Y backend
+Bases de datos (MySQL SQLserver)
+Ciberseguridad
+
+Materias en curso:
 - Análisis de algoritmos  
 - Ciberseguridad  
 - Ingeniería de software  
-- Programación de artefactos  
+- Programación de artefacto  
 
 ### 🏫 Colegio Génesis Miralvalle
 **Bachillerato General — Finalizado**
@@ -50,15 +55,15 @@ Enfoque en:
 ## 💼 Experiencia
 
 ### 🧑‍🏫 Tutor académico y apoyo docente — UCA (2025 – Actualidad)
-- Tutorías en informática y ciencias.  
+- Tutorías en informática.  
 - Apoyo a docentes en actividades formativas.  
 - Orientación académica a estudiantes.
 
 ### ⚡ Instructor — Electricidad y Magnetismo (2024)
 - Clases teóricas y prácticas en conceptos eléctricos.  
-- Elaboración de guías, prácticas y evaluaciones.  
+- Elaboración de guías y evaluaciones.  
 
-### 🛍️ Asistente Administrativo y de Ventas — Emprendimiento Familiar (2015–2023)
+### 🛍️ Asistente Administrativo y de Ventas — Emprendimiento Familiar (2017–2023)
 - Gestión administrativa, inventario y pedidos.  
 - Atención al cliente y supervisión de entregas.  
 - Coordinación operativa de la panadería familiar.
@@ -83,8 +88,8 @@ Enfoque en:
 ## 📫 Contacto
 - 📧 **danielmasing2017@gmail.com**
 - 📍 Mejicanos, San Salvador  
-- 🔗 LinkedIn: *(Pega aquí tu enlace)*  
-- 🐙 GitHub: *(Tu usuario)*  
+- 🔗 LinkedIn: https://www.linkedin.com/in/rivera-alvarenga-josu%C3%A9-daniel-3a8035399/  
+- 🐙 GitHub: https://github.com/DanielRivera237 
 
 ---
 

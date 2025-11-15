@@ -1,49 +1,95 @@
-¡Hola! Soy Josué Daniel Rivera
-🎓 Estudiante de Ingeniería Informática | Enfoque en Ciencia de Datos, Ciberseguridad y Desarrollo de Software
+# 👋 ¡Hola! Soy **Josué Daniel Rivera**
+### 🎓 Estudiante de Ingeniería Informática | Ciencia de Datos | Ciberseguridad | Desarrollo de Software
 
-Soy estudiante de cuarto año de Ingeniería Informática en la UCA.
+Soy estudiante de cuarto año de Ingeniería Informática en la UCA.  
 Me apasiona la ciencia de datos, la ciberseguridad, la tecnología aplicada y el desarrollo de soluciones eficientes.
-Tengo experiencia en administración operativa, tutorías académicas, enseñanza en materias técnicas, y uso de herramientas modernas para análisis, automatización y desarrollo.
 
-🔧 Tecnologías y herramientas
-🖥️ Lenguajes de programación
+Tengo experiencia en administración operativa, tutorías académicas, enseñanza en áreas técnicas y uso de herramientas modernas para análisis, automatización y desarrollo.
 
-Java
+---
 
-Python
+## 🛠️ Tecnologías y Herramientas
 
-SQL
+### 💻 Lenguajes de programación
+- Java  
+- Python  
+- SQL  
+- JavaScript  
+- HTML / CSS  
 
-JavaScript
+### 🗄️ Bases de datos
+- MySQL  
+- PostgreSQL  
+- SQL Server  
 
-HTML/CSS
+### ⚙️ Frameworks y herramientas
+- Power BI  
+- Git & GitHub  
+- Linux (uso básico)  
+- Análisis de datos  
+- Redes (Huawei)  
+- Ciberseguridad básica  
 
-⚙️ Bases de datos
+---
 
-MySQL
+## 🎓 Educación
 
-PostgreSQL
+### 🎓 Universidad Centroamericana José Simeón Cañas (UCA)
+**Ingeniería Informática — 4.º año (2021 – Actualidad)**  
+Enfoque en:
+- Análisis de algoritmos  
+- Ciberseguridad  
+- Ingeniería de software  
+- Programación de artefactos  
 
-SQL Server
+### 🏫 Colegio Génesis Miralvalle
+**Bachillerato General — Finalizado**
 
-🧰 Frameworks y herramientas
+---
 
-Power BI
+## 💼 Experiencia
 
-Git / GitHub
+### 🧑‍🏫 Tutor académico y apoyo docente — UCA (2025 – Actualidad)
+- Tutorías en informática y ciencias.  
+- Apoyo a docentes en actividades formativas.  
+- Orientación académica a estudiantes.
 
-Linux (comandos básicos)
+### ⚡ Instructor — Electricidad y Magnetismo (2024)
+- Clases teóricas y prácticas en conceptos eléctricos.  
+- Elaboración de guías, prácticas y evaluaciones.  
 
-Análisis de datos
+### 🛍️ Asistente Administrativo y de Ventas — Emprendimiento Familiar (2015–2023)
+- Gestión administrativa, inventario y pedidos.  
+- Atención al cliente y supervisión de entregas.  
+- Coordinación operativa de la panadería familiar.
 
-Redes (Huawei Certification)
+---
 
-Ciberseguridad básica
+## 🏆 Certificaciones
+- **Power BI — Santander (2024)**  
+- **Data Communication Network Technology — Huawei (2025)**  
 
-🔒 Seguridad informática
+---
 
-Conceptos fundamentales de redes y seguridad (Huawei)
+## 🧠 Habilidades
+- Pensamiento analítico  
+- Trabajo en equipo  
+- Resolución de problemas  
+- Creatividad e innovación  
+- Organización y liderazgo  
 
-Prácticas de protección de datos
+---
 
-Trabajo con entornos seguros
+## 📫 Contacto
+- 📧 **danielmasing2017@gmail.com**
+- 📍 Mejicanos, San Salvador  
+- 🔗 LinkedIn: *(Pega aquí tu enlace)*  
+- 🐙 GitHub: *(Tu usuario)*  
+
+---
+
+## 🌱 Actualmente aprendiendo
+- Análisis de datos avanzado  
+- Ciberseguridad  
+- Automatización con Python  
+- Redes y sistemas
